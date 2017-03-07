@@ -5,12 +5,18 @@ using namespace std;
 
 int main(){
 
+  int array[100];
+  int length;
 
-  cout << "Hello, don't look at this" << endl;
-  cout << "This code is not for your eyes" << endl;
+  cout << "Enter!..!..!..!..!..!..!" << endl;
+  
 
 
 
 
+
+}
+
+void maxHeapify(){
 
 }
