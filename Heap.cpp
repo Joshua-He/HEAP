@@ -12,7 +12,7 @@ void removeNode(int &arraySize, int array[100]);
 
 int main(){
   int array[100];
-  char array1[205];
+  char array1[300];
   char temp[10] = "";
   int arraySize = 0;
   int length;
