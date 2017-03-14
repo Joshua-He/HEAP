@@ -41,8 +41,9 @@ int main(){
     cout << array[i] << endl;
   }
   */
+  cout << endl;
   printTree(arraySize, array);
-  cout << "Max Heap" << endl;
+  cout << endl <<"Max Heap" << endl << endl;
   removeNode(arraySize, array);
 }
 
